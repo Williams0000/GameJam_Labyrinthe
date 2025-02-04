@@ -36,6 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/GameJam_Labyrinthe/Assets/scripts/FirstPersonneCamera.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -110,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738668790473</updated>
-      <workItem from="1738668793503" duration="622000" />
+      <workItem from="1738668793503" duration="1901000" />
     </task>
     <servers />
   </component>
